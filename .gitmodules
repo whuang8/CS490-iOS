@@ -1,0 +1,36 @@
+[submodule "Tipper"]
+	path = Tipper
+	url = https://github.com/whuang8/Tipper
+[submodule "Flicks"]
+	path = Flicks
+	url = https://github.com/whuang8/Flicks
+[submodule "Tumblr"]
+	path = Tumblr
+	url = https://github.com/whuang8/Tumblr
+[submodule "Yelp"]
+	path = Yelp
+	url = https://github.com/whuang8/Yelp
+[submodule "parse-chat"]
+	path = parse-chat
+	url = https://github.com/whuang8/parse-chat
+[submodule "github-repos"]
+	path = github-repos
+	url = https://github.com/whuang8/github-repos
+[submodule "tweeter"]
+	path = tweeter
+	url = https://github.com/whuang8/tweeter
+[submodule "instagram"]
+	path = instagram
+	url = https://github.com/whuang8/instagram
+[submodule "ios-stickers"]
+	path = ios-stickers
+	url = https://github.com/whuang8/ios-stickers
+[submodule "photo-map"]
+	path = photo-map
+	url = https://github.com/whuang8/photo-map
+[submodule "tinder-ios"]
+	path = tinder-ios
+	url = https://github.com/whuang8/tinder-ios
+[submodule "ThreeEyedRaven"]
+	path = ThreeEyedRaven
+	url = https://github.com/Three-Eyed-Raven/ThreeEyedRaven
